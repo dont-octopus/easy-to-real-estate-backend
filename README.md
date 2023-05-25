@@ -52,5 +52,5 @@ fix : 로그인 에러 해결 #16
 테스트
 
 ## 완성 및 배포 화면
-<img width="1280" alt="image" src="https://github.com/dont-octopus/easy-to-real-estate-backend/assets/113498516/4da58e4d-788d-4b78-9425-f4ccf7a21efe">
+<img width="1280" alt="image" src="https://github.com/dont-octopus/easy-to-real-estate-backend/assets/113498516/d8fbfd9f-0a9a-4ff0-ae84-3c4199686ad1">
 
